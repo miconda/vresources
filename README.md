@@ -1,2 +1,3 @@
-# vresources
-Various resources shared by other repositories
+# vresources #
+
+Various resources shared by other repositories - images (screenshots, diagrams), pdfs, videos, ...
