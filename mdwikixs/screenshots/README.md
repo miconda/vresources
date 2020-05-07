@@ -6,7 +6,7 @@ MdWikiXS project:
 
 ## Markdown Rendering ##
 
-Three show cases of how different markdown syntax elements are rendered in the html with defaul template files.
+Three show cases of how different markdown syntax elements are rendered in the html with default template files.
 
 ![Markdown Rendering 1](https://github.com/miconda/vresources/raw/master/mdwikixs/screenshots/mdwikixs-s01.png)
 
